@@ -1,14 +1,3 @@
-/*==========================================================
-
- Title:     Assignment 6 - C++ Basketball Season
- Course:  	CIS 2252
- Author:  	<Mohammed Tanvvir>
- Date:    	<8 /1 / 23>
- Description: This program ....
-
- ==========================================================
-*/
-
 #include <iostream>
 #include <string>
 #include <cmath>
